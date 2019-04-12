@@ -1,0 +1,25 @@
+.ngdialog.ngdialog-theme-plain.height-auto .ngdialog-content {
+  background: #fff;
+  color: #444;
+  font-family: 'Helvetica Neue',sans-serif;
+  font-size: 1.1em;
+  line-height: 1.5em;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 1em;
+  position: relative;
+  height:auto;
+}
+.ngdialog.ngdialog-theme-plain.custom-auto .ngdialog-content {
+  background: #fff;
+  color: #444;
+  font-family: 'Helvetica Neue',sans-serif;
+  font-size: 1.1em;
+  line-height: 1.5em;
+  margin: 15;
+  max-width: 100%;
+  padding: 1em;
+  position: relative;
+  height:auto;
+}
+

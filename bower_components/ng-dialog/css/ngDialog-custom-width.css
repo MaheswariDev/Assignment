@@ -1,0 +1,36 @@
+.ngdialog.ngdialog-theme-plain.custom-width .ngdialog-content {
+    width: 40%;
+    height:28%;
+    top:25%;
+    left:35%;
+    position: absolute;
+    font-size:14px;
+    min-height:150px;
+
+}
+
+.ngdialog.ngdialog-theme-plain.test-width .ngdialog-content {
+    width: 61%;
+    height:68%;
+    top:31%;
+    left:39%;
+    position: absolute;
+    font-size:14px;
+    min-height:150px;
+
+}
+
+
+
+.ngdialog.ngdialog-theme-plain.visitdate-width .ngdialog-content {
+    width: 40%;
+    height:45%;
+    top:31%;
+    left:39%;
+    position: absolute;
+    font-size:14px;
+    min-height:150px;
+
+}
+
+
